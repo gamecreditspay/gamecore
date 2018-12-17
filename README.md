@@ -2,11 +2,11 @@ Gamecore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/gamecore.svg?style=flat-square)](https://www.npmjs.org/package/gamecore)
-[![Build Status](https://img.shields.io/travis/litecoin-project/gamecore.svg?branch=master&style=flat-square)](https://travis-ci.org/litecoin-project/gamecore)
+[![Build Status](https://img.shields.io/travis/gamecreditspay/gamecore.svg?branch=master&style=flat-square)](https://travis-ci.org/gamecreditspay/gamecore)
 
-Infrastructure to build Litecoin and blockchain-based applications for the next generation of financial technology.
+Infrastructure to build Gamecredits and blockchain-based applications for the next generation of financial technology.
 
-**Note:** If you're looking for the Gamecore Library please see: https://github.com/litecoin-project/gamecore-lib
+**Note:** If you're looking for the Gamecore Library please see: https://github.com/gamecreditspay/gamecore-lib
 
 ## Getting Started
 
@@ -35,9 +35,9 @@ transaction.sign(privateKey);
 
 ## Applications
 
-- [Node](https://github.com/litecoin-project/gamecore-node) - A full node with extended capabilities using Litecoin Core
-- [Insight Lite API](https://github.com/litecoin-project/insight-game-api) - A blockchain explorer HTTP API
-- [Insight Lite UI](https://github.com/litecoin-project/insight-game-ui) - A blockchain explorer web user interface
+- [Node](https://github.com/gamecreditspay/gamecore-node) - A full node with extended capabilities using Gamecredits Core
+- [Insight Lite API](https://github.com/gamecreditspay/insight-game-api) - A blockchain explorer HTTP API
+- [Insight Lite UI](https://github.com/gamecreditspay/insight-game-ui) - A blockchain explorer web user interface
 - [Wallet Service](https://github.com/bitpay/bitcore-wallet-service) - A multisig HD service for wallets
 - [Wallet Client](https://github.com/bitpay/bitcore-wallet-client) - A client for the wallet service
 - [CLI Wallet](https://github.com/bitpay/bitcore-wallet) - A command-line based wallet client
@@ -46,12 +46,12 @@ transaction.sign(privateKey);
 
 ## Libraries
 
-- [Lib](https://github.com/litecoin-project/gamecore-lib) - All of the core Litecoin primatives including transactions, private key management and others
+- [Lib](https://github.com/gamecreditspay/gamecore-lib) - All of the core Gamecredits primatives including transactions, private key management and others
 - [Payment Protocol](https://github.com/bitpay/bitcore-payment-protocol) - A protocol for communication between a merchant and customer
-- [P2P](https://github.com/litecoin-project/gamecore-p2p) - The peer-to-peer networking protocol
+- [P2P](https://github.com/gamecreditspay/gamecore-p2p) - The peer-to-peer networking protocol
 - [Mnemonic](https://github.com/bitpay/bitcore-mnemonic) - Implements mnemonic code for generating deterministic keys
 - [Channel](https://github.com/bitpay/bitcore-channel) - Micropayment channels for rapidly adjusting bitcoin transactions
-- [Message](https://github.com/litecoin-project/gamecore-message) - Litecoin message verification and signing
+- [Message](https://github.com/gamecreditspay/gamecore-message) - Gamecredits message verification and signing
 - [ECIES](https://github.com/bitpay/bitcore-ecies) - Uses ECIES symmetric key negotiation from public keys to encrypt arbitrarily long data streams.
 
 ## Documentation
@@ -71,7 +71,7 @@ If you find a security issue, please email security@bitpay.com.
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/litecoin-project/gamecore/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/gamecreditspay/gamecore/blob/master/CONTRIBUTING.md) file.
 
 This will generate files named `gamecore.js` and `gamecore.min.js`.
 
@@ -85,7 +85,7 @@ To verify signatures, use the following PGP keys:
 
 ## License
 
-Code released under [the MIT license](https://github.com/litecoin-project/gamecore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/gamecreditspay/gamecore/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
 Copyright 2016 The Gamecore Core Developers
