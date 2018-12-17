@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var gamecore = require('gamecore-lib');
 
-module.exports = litecore;
+module.exports = gamecore;
