@@ -90,10 +90,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "gamecore-lib": "^0.13.22",
-    "gamecore-node": "^3.1.11",
-    "insight-lite-api": "^0.4.4",
-    "insight-lite-ui": "^0.4.2"
+    "gamecore-lib": "git://github.com/gamecreditspay/gamecore-lib.git",
+    "gamecore-node": "git://github.com/gamecreditspay/gamecore-node.git",
+    "insight-game-api": "git://github.com/gamecreditspay/insight-game-api.git",
+    "insight-game-ui": "git://github.com/gamecreditspay/insight-game-ui.git"
   },
   "license": "MIT",
   "devDependencies": {
