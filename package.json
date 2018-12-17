@@ -1,7 +1,7 @@
 {
   "name": "gamecore",
   "version": "4.1.10",
-  "description": "A platform to build bitcoin and blockchain-based applications.",
+  "description": "A platform to build Gamecredits and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -67,7 +67,7 @@
     }
   ],
   "keywords": [
-    "litecoin",
+    "gamecredits",
     "transaction",
     "address",
     "p2p",
@@ -84,7 +84,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/gamecore.git"
+    "url": "https://github.com/gamecreditspay/gamecore.git"
   },
   "browser": {
     "request": "browser-request"
